@@ -72,3 +72,4 @@ Atlas/
 <p>
 This is a prototype release 🧪. Future improvements may include JSON/CSV export 📑, additional social platforms 🌐, and extended scanning capabilities 🔦.
 </p>
+<h1>educational use only</h1>
