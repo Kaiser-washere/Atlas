@@ -12,7 +12,6 @@ def main():
     parser.add_argument("--ports", help="Ports for scanner (comma separated)", default="22,80,443")
     args = parser.parse_args()
 
-    # Show ASCII banner
     banner.show_banner()
 
     mod = args.module.lower()
@@ -36,3 +35,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
