@@ -15,7 +15,7 @@ Atlas is a hybrid prototype tool 🔧 for information gathering. It combines <b>
 Designed for security researchers 🕵️, penetration testers 💻, and developers 👨‍💻 who want a modular and colorful way to collect domain, IP, and social footprint data.
 </p>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 <ul>
   <li>🔍 <b>WHOIS</b> – Retrieve domain registration details.</li>
   <li>🌐 <b>DNS</b> – Query A, MX, TXT, NS, and CNAME records.</li>
@@ -40,7 +40,7 @@ chmod +x install.sh
 This will install Python dependencies, compile the C++ scanner, and prepare the Ruby scraper automatically ✅.
 </p>
 
-<h2>🚀 Usage</h2>
+<h2> Usage</h2>
 <pre>
 python3 core.py -t example.com -m whois
 python3 core.py -t example.com -m dns
